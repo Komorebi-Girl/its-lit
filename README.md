@@ -1,7 +1,9 @@
 # It's Lit!
 
 ## What is it?
-It's Lit is a web application that facilitates local person-to-person book lending. As part of the registration process, users input their genre preferences. When they log on, the app then searches through its database and recommends books it believes the user will enjoy based on category. It's Lit provides not only the title and author for each recommended title but also a short synposis and an image of its cover. Once the user finds a book they would like to borrow, they select that title and It's Lit displays the distance from that book's owner to the user as well as the contact information for the owner so that a "lending meetup" can be arranged. If users want to branch out and browse It's Lit's entire collection of books, they can search by category or check out the "All Books" tab. 
+It's Lit is a web application that facilitates local person-to-person book lending. As part of the registration process, users input their genre preferences. When they log on, the app then searches through its database and recommends books it believes the user will enjoy based on category. It's Lit provides not only the title and author for each recommended title but also a short synposis and an image of its cover. 
+
+Once the user finds a book they would like to borrow, they select that title and It's Lit displays the distance from that book's owner to the user as well as the contact information for the owner so that a "lending meetup" can be arranged. If users want to branch out and browse It's Lit's entire collection of books, they can search by category or check out the "All Books" tab. 
  
 ![alt text](itslit.gif)
 
